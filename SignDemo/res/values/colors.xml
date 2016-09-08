@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorFonts"> #262626</color>
+    <color name="colorFontsGray">#999999</color>
+    <color name="colorFontsTitle">#FFFFFF</color>
+    <color name="colorItemNormal">#FFFFFF</color>
+    <color name="colorItemPressed">#D9D9D9</color>
+    <color name="colorBackground">#EBEBEB</color>
+    <color name="colorHomeStudy1_1">#CC41CB51</color>
+    <color name="colorHomeStudy1_2">#8841CB51</color>
+    <color name="colorHomeStudy2_1">#CCFF7003</color>
+    <color name="colorHomeStudy2_2">#88FF7003</color>
+    <color name="colorHomeStudy3_1">#CCAB62E7</color>
+    <color name="colorHomeStudy3_2">#88AB62E7</color>
+
+
+</resources>
